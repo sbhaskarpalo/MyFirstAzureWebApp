@@ -1,0 +1,7 @@
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/MyFirstAzureWebApp
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/appsettings.Development.json
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/appsettings.json
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/MyFirstAzureWebApp.dll
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/MyFirstAzureWebApp.deps.json
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/MyFirstAzureWebApp.runtimeconfig.json
+/Users/shruthibhaskar/Downloads/MyFirstAzureWebApp/out/MyFirstAzureWebApp.pdb
