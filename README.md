@@ -1,1 +1,1 @@
-![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=main)
+[![.NET Core Desktop](https://github.com/sbhaskarpalo/MyFirstAzureWebApp/actions/workflows/dotnet-desktop.yml/badge.svg?branch=main)](https://github.com/sbhaskarpalo/MyFirstAzureWebApp/actions/workflows/dotnet-desktop.yml)
